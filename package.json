@@ -1,7 +1,9 @@
 {
   "name": "twitter-renew",
   "version": "1.0.0",
-  "description": "sth",
+  "description": {
+	   "twitter" : "*"
+   },
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
@@ -10,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/hungrykirby/twitterRenew.git"
   },
-  "engine":{
+  "engine": {
     "node": "6.2.1",
     "npm": "3.9.3"
   },

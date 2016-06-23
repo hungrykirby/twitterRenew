@@ -1,0 +1,23 @@
+{
+  "name": "twitter-renew",
+  "version": "1.0.0",
+  "description": "sth",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungrykirby/twitterRenew.git"
+  },
+  "engine":{
+    "node": "6.2.1",
+    "npm": "3.9.3"
+  },
+  "author": "Katsuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungrykirby/twitterRenew/issues"
+  },
+  "homepage": "https://github.com/hungrykirby/twitterRenew#readme"
+}
